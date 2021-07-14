@@ -1,3 +1,13 @@
+# Welcome to the repo for my personal site
+
+This site was hacked together using React and elements from [alysonla](https://github.com/alysonla) and [cobyism](https://github.com/cobyism). Along with the [Treehouse](https://teamtreehouse.com/) logo, which was made by and used for Treehouse Island, Inc.
+
+Thanks for stopping by!
+
+-Kyle
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
