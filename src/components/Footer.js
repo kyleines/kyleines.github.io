@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="grid">
                 <div className="unit whole center-on-mobiles">
                     <p>
-                        My site is powered by <a href="https://pages.github.io" target="_blank" rel="noreferrer">GitHub Pages</a>, 
+                        My site is powered by <a href="https://pages.github.com/" target="_blank" rel="noreferrer">GitHub Pages</a>, 
                         and it's design is <a href="https://github.com/kyleines/kyleines.github.io" target="_blank" rel="noreferrer">open source</a>.
                     </p>
                 </div>
