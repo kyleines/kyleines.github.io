@@ -85,6 +85,7 @@
     .id {
       display: inline-block;
       text-align: left;
+      margin-right: 5px;
     }
   }
   
